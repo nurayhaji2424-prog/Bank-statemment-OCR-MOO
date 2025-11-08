@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bank Statement OCR ",
+  "description": "An application that uses  to extract transaction data from uploaded bank statements (images or PDFs) and formats it into a copyable CSV table.",
+  "requestFramePermissions": []
+}
